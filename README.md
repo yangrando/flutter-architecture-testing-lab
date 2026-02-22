@@ -1,6 +1,6 @@
 # Flutter Architecture & Testing Lab
 ![Coverage](https://img.shields.io/badge/coverage-86%25-brightgreen)
-![CI](https://github.com/SEU_USERNAME/flutter-architecture-testing-lab/actions/workflows/flutter_ci.yml/badge.svg)
+![CI](https://github.com/yangrando/flutter-architecture-testing-lab/actions/workflows/flutter_ci.yml/badge.svg)
 
 A production-oriented Flutter project demonstrating Clean Architecture, Riverpod-based state management, and a comprehensive testing strategy.
 
